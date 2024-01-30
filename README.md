@@ -28,4 +28,4 @@
 
 ## USAGE OF LANGUAGES
 
-[![Top Langs](https://github-readme-stats-nine-nu-48.vercel.app/api/top-langs/?username=fabriazza&layout=full&langs_count=10)](https://github.com/fabriazza/github-readme-stats)
+[![Top Langs](https://github-readme-stats-nine-nu-48.vercel.app/api/top-langs/?username=fabriazza&layout=compact)](https://github.com/fabriazza/github-readme-stats)
