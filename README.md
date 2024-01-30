@@ -2,11 +2,6 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">I'm a Full Stack web developer.</h3>
 
-[![codewars](https://www.codewars.com/users/fabripix/badges/large)](https://www.codewars.com/users/fabripix)
-
-- 🌱 I’m currently learning: Ruby, Rails, React.
-- 🥅 2024 Goals: learn GO, Web3 and AWS Certifications
-
 ## SKILLS & TOOLS
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -15,6 +10,7 @@
 ![Tailwind](https://img.shields.io/badge/tailwindcss-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Typescript](https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/nextdotjs-3178C6.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
@@ -32,4 +28,4 @@
 
 ## USAGE OF LANGUAGES
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabriazza&layout=full&langs_count=10)](https://github.com/fabriazza/github-readme-stats)
+[![Top Langs](https://github-readme-stats-nine-nu-48.vercel.app/api/top-langs/?username=fabriazza&layout=full&langs_count=10)](https://github.com/fabriazza/github-readme-stats)
