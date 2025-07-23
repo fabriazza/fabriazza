@@ -1,8 +1,5 @@
 <h1 align="center">Hi there, I'm <a href="https://fabrizioazzarri.it/" target="_blank">Fabrizio</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">I'm a Full Stack developer.</h3>
-
-## SKILLS & TOOLS
 
 ![OpenAI](https://img.shields.io/badge/openai-black?style=for-the-badge&logo=openai&logoColor=white)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D?style=for-the-badge&logo=ruby&logoColor=white)
@@ -37,11 +34,3 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-black?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%2300C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
-## STREAKS STATS
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fabriazza&theme=elegant&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-## USAGE OF LANGUAGES
-
-[![Top Langs](https://github-readme-stats-nine-nu-48.vercel.app/api/top-langs/?username=fabriazza&layout=compact)](https://github.com/fabriazza/github-readme-stats)
