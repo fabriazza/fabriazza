@@ -1,7 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://fabrizioazzarri.it/" target="_blank">Fabrizio</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-![OpenAI](https://img.shields.io/badge/openai-black?style=for-the-badge&logo=openai&logoColor=white)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/rubyonrails-%23D30001?style=for-the-badge&logo=rubyonrails&logoColor=white)
 ![Javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
